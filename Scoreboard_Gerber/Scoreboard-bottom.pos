@@ -1,0 +1,9 @@
+### Module positions - created on Mon Mar 18 01:14:25 2024 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                PosX       PosY       Rot  Side
+BT1       AA_BATTERY  BAT_BCAAPC        -113.7750   -85.5250  180.0000  bottom
+BT2       AA_BATTERY  BAT_BCAAPC        -176.5500   -85.5250  180.0000  bottom
+BT3       AA_BATTERY  BAT_BCAAPC        -140.7500   -68.5000    0.0000  bottom
+## End
