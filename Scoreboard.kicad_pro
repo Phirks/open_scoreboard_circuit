@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.6,
-          "width": 1.475
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -55,7 +55,17 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|115025000|142300000|2251b3e5-0c3c-4019-83ef-bd72020cff75|73240bb0-278c-4bdf-8323-6460d6e2839f",
+        "clearance|115025000|142300000|7a0e480c-7068-4c18-910a-d573b7f42dac|37762020-bb4b-488a-9ab3-452e399534f5",
+        "clearance|115025000|142300000|ad5419d4-8f3b-4fef-82ed-badd6dfdeb5c|ba858fad-1259-4f98-a941-6f6ea81f5b6e",
+        "clearance|117450000|137750000|75f13bd4-fe09-487d-8b8b-b372a0ea5708|3fe175b3-3cfd-4e36-a294-713a51106a07",
+        "clearance|117450000|138250000|a87cd71c-16a4-42ca-9a8c-873f346de73e|003bf12c-f473-4a06-a82a-28d12f0f3d2d",
+        "courtyards_overlap|207625001|154350001|6eb7f791-bd8c-420c-bb23-e9c2e96986c6|f1d84059-ad4c-4cfd-bfed-1ca88e61b7d2",
+        "silk_overlap|214050000|154740000|966a4772-3cc7-4c1a-af07-6d30dd664894|f1fd38ac-c916-411e-be50-797677e6c29b",
+        "silk_overlap|214050000|160860000|966a4772-3cc7-4c1a-af07-6d30dd664894|3ff120d4-f1ea-4811-aff9-4befd8200d1d",
+        "track_dangling|117450000|138874520|b39f2925-f138-480a-bf88-6cdda18e2feb|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -385,7 +395,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Scoreboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
