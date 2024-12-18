@@ -378,7 +378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -669,7 +669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -960,7 +960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1251,7 +1251,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1542,7 +1542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1832,7 +1832,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2124,7 +2124,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2417,7 +2417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2708,7 +2708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2999,7 +2999,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3290,7 +3290,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3581,7 +3581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3872,7 +3872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4163,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4454,7 +4454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4745,7 +4745,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5036,7 +5036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5327,7 +5327,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5618,7 +5618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5909,7 +5909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6200,7 +6200,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6491,7 +6491,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6782,7 +6782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7073,7 +7073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7364,7 +7364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -7655,7 +7655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7946,7 +7946,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8237,7 +8237,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8528,7 +8528,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8818,7 +8818,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:Oval_Button"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9241,7 +9241,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9450,7 +9450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9741,7 +9741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10032,7 +10032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10323,7 +10323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10614,7 +10614,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10905,7 +10905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11193,7 +11193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:GCT_USB4110GFA"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11587,7 +11587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11878,7 +11878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12169,7 +12169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12460,7 +12460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12751,7 +12751,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13042,7 +13042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13333,7 +13333,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13624,7 +13624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -13915,7 +13915,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14205,7 +14205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14498,7 +14498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14788,7 +14788,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:Oval_Button"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15211,7 +15211,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15504,7 +15504,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15795,7 +15795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16086,7 +16086,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16377,7 +16377,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16668,7 +16668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16959,7 +16959,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -17250,7 +17250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17540,7 +17540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17833,7 +17833,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -18124,7 +18124,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18414,7 +18414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18708,7 +18708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18816,7 +18816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19107,7 +19107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -19398,7 +19398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -19688,7 +19688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -19981,7 +19981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20272,7 +20272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20563,7 +20563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20853,7 +20853,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21146,7 +21146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21437,7 +21437,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21728,7 +21728,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -22019,7 +22019,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22310,7 +22310,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22601,7 +22601,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22892,7 +22892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23183,7 +23183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23474,7 +23474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23765,7 +23765,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24057,7 +24057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24165,7 +24165,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -24455,7 +24455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24748,7 +24748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25039,7 +25039,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25330,7 +25330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25621,7 +25621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -25912,7 +25912,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26203,7 +26203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26493,7 +26493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -26786,7 +26786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27076,7 +27076,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -27369,7 +27369,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -27660,7 +27660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27951,7 +27951,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28242,7 +28242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28533,7 +28533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28824,7 +28824,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -29115,7 +29115,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29406,7 +29406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29694,7 +29694,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:XDCR_CMT-7525-80-SMT-TR"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -30056,7 +30056,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -30347,7 +30347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -30638,7 +30638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30928,7 +30928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31136,7 +31136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -31429,7 +31429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31720,7 +31720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32011,7 +32011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32301,7 +32301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32594,7 +32594,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -32886,7 +32886,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32994,7 +32994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -33285,7 +33285,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33576,7 +33576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -33867,7 +33867,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34158,7 +34158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -34449,7 +34449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -34740,7 +34740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35031,7 +35031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35322,7 +35322,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35612,7 +35612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35904,7 +35904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -36113,7 +36113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -36404,7 +36404,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36696,7 +36696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36804,7 +36804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37095,7 +37095,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37386,7 +37386,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -37677,7 +37677,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37967,7 +37967,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:SOT-23-6"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38305,7 +38305,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:XCVR_BC833M"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -38971,7 +38971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -39262,7 +39262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -39553,7 +39553,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -39843,7 +39843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -40110,7 +40110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -40400,7 +40400,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:SOT-23"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -40735,7 +40735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -41026,7 +41026,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41317,7 +41317,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -41608,7 +41608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -41899,7 +41899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -42190,7 +42190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -42481,7 +42481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -42772,7 +42772,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43063,7 +43063,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -43354,7 +43354,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43645,7 +43645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43936,7 +43936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -44227,7 +44227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -44518,7 +44518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -44809,7 +44809,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -45100,7 +45100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -45391,7 +45391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -45682,7 +45682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -45973,7 +45973,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46264,7 +46264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -46555,7 +46555,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46846,7 +46846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -47137,7 +47137,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -47428,7 +47428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -47718,7 +47718,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:Oval_Button"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -48142,7 +48142,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -48433,7 +48433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -48723,7 +48723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -48932,7 +48932,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -49222,7 +49222,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49515,7 +49515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -49805,7 +49805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:SOT-23"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -50140,7 +50140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -50431,7 +50431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -50722,7 +50722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -51013,7 +51013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -51304,7 +51304,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -51595,7 +51595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -51886,7 +51886,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -52177,7 +52177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -52468,7 +52468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -52759,7 +52759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53050,7 +53050,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -53341,7 +53341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -53632,7 +53632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -53922,7 +53922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -54215,7 +54215,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -54506,7 +54506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -54797,7 +54797,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -55088,7 +55088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -55378,7 +55378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:SOT-23"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -55712,7 +55712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -55922,7 +55922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -56030,7 +56030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -56321,7 +56321,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -56612,7 +56612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -56903,7 +56903,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -57194,7 +57194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -57485,7 +57485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -57775,7 +57775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -58068,7 +58068,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -58359,7 +58359,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -58650,7 +58650,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -58941,7 +58941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -59232,7 +59232,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -59523,7 +59523,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -59813,7 +59813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -60106,7 +60106,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -60397,7 +60397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -60688,7 +60688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -60978,7 +60978,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:R_0603_1608Metric"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -61271,7 +61271,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -61562,7 +61562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -61852,7 +61852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:SOT-23"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -62187,7 +62187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -62478,7 +62478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -62769,7 +62769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63060,7 +63060,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63350,7 +63350,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:C_0603_1608Metric"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -63644,7 +63644,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -63752,7 +63752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -64043,7 +64043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -64334,7 +64334,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -64625,7 +64625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -64916,7 +64916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -65207,7 +65207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -65498,7 +65498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -65788,7 +65788,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:TC2050-IDC-FP"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -66578,7 +66578,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:18650_Cell_Holder"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -66878,7 +66878,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:HM-NFC-Class3-Antenna"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -67120,7 +67120,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "User_Footprints:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
