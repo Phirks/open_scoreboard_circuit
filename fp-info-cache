@@ -1,4 +1,4 @@
-24459098481031447
+24464402578208123
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97923,6 +97923,20 @@ Surface mounted pin header SMD 2x05 1.27mm double row
 10
 10
 User_Footprints
+QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+37
+33
+User_Footprints
+QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+47
+33
+User_Footprints
 RGB_LED_NH-B2020RGBA-HF
 RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
 LED 3227
@@ -97950,6 +97964,13 @@ SOT TO_SOT_SMD
 0
 6
 6
+User_Footprints
+SW4_1437565_TEC
+
+8-1437565-0 
+0
+4
+2
 User_Footprints
 SW_SPST_TSC015A03526A
 https://www.e-switch.com/system/asset/product_line/data_sheet/213/TL3305.pdf
