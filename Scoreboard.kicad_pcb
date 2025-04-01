@@ -588,11 +588,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "User_Footprints:RGB_LED_NH-B2020RGBA-HF"
-=======
-		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
->>>>>>> 765677de5d3a4e6ade9669ce28fae239a28a82a0
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -912,11 +908,7 @@
 				)
 			)
 		)
-<<<<<<< HEAD
 		(property "Footprint" "User_Footprints:RGB_LED_NH-B2020RGBA-HF"
-=======
-		(property "Footprint" "User_Footprints:LED_WS2812B_2x1.8mm"
->>>>>>> 765677de5d3a4e6ade9669ce28fae239a28a82a0
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
