@@ -1,13 +1,15 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "4f609aa6-fdf6-4cf0-b840-42c33b8b4b75")
 	(paper "B")
 	(lib_symbols
 		(symbol "User_Symbols:LED_RGAB"
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -141,31 +143,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -5.08) (xy -2.54 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy 1.27 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -3.81) (xy -1.27 -6.35)
+						(xy -1.27 6.35) (xy -1.27 3.81)
 					)
 					(stroke
 						(width 0.254)
@@ -177,22 +155,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 0) (xy -2.54 0)
+						(xy -1.27 6.35) (xy -1.27 3.81) (xy -1.27 3.81)
 					)
 					(stroke
 						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -225,10 +191,199 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 6.35) (xy -1.27 3.81)
+						(xy -1.27 1.27) (xy -1.27 -1.27)
 					)
 					(stroke
 						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -3.81) (xy -1.27 -6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -5.08) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 6.35) (xy 0.508 7.874) (xy -0.254 7.874) (xy 0.508 7.874) (xy 0.508 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy 0.508 2.794) (xy -0.254 2.794) (xy 0.508 2.794) (xy 0.508 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -3.81) (xy 0.508 -2.286) (xy -0.254 -2.286) (xy 0.508 -2.286) (xy 0.508 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 1.524 7.874) (xy 0.762 7.874) (xy 1.524 7.874) (xy 1.524 7.112)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 1.524 2.794) (xy 0.762 2.794) (xy 1.524 2.794) (xy 1.524 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.81) (xy 1.524 -2.286) (xy 0.762 -2.286) (xy 1.524 -2.286) (xy 1.524 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 6.35) (xy 1.27 3.81) (xy -1.27 5.08) (xy 1.27 6.35)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 6.35)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 3.81)
+					(end 1.27 6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 1.27)
+					(end 1.27 1.27)
+					(stroke
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -259,34 +414,9 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 6.35) (xy -1.27 3.81) (xy -1.27 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -5.08) (xy 2.032 -5.08) (xy 2.032 5.08) (xy 1.27 5.08)
-					)
+				(rectangle
+					(start 1.27 -1.27)
+					(end 1.27 1.27)
 					(stroke
 						(width 0)
 						(type default)
@@ -309,136 +439,8 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+						(xy 1.27 -5.08) (xy 2.032 -5.08) (xy 2.032 5.08) (xy 1.27 5.08)
 					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 6.35) (xy 1.27 3.81) (xy -1.27 5.08) (xy 1.27 6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -3.81) (xy 0.508 -2.286) (xy -0.254 -2.286) (xy 0.508 -2.286) (xy 0.508 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.27) (xy 0.508 2.794) (xy -0.254 2.794) (xy 0.508 2.794) (xy 0.508 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 6.35) (xy 0.508 7.874) (xy -0.254 7.874) (xy 0.508 7.874) (xy 0.508 7.112)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 1.524 -2.286) (xy 0.762 -2.286) (xy 1.524 -2.286) (xy 1.524 -3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 1.524 2.794) (xy 0.762 2.794) (xy 1.524 2.794) (xy 1.524 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 6.35) (xy 1.524 7.874) (xy 0.762 7.874) (xy 1.524 7.874) (xy 1.524 7.112)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 -1.27)
-					(end 1.27 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 1.27)
-					(end 1.27 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 3.81)
-					(end 1.27 6.35)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.27 6.35)
-					(end 1.27 6.35)
 					(stroke
 						(width 0)
 						(type default)
@@ -515,24 +517,6 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at -5.08 -5.08 0)
 					(length 2.54)
 					(name "BK"
@@ -550,7 +534,26 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -4092,7 +4095,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 284.48 212.09 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4104,7 +4106,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 179.07 127 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4116,7 +4117,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 267.97 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4128,7 +4128,6 @@
 	(hierarchical_label "Segment_F"
 		(shape input)
 		(at 182.88 73.66 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4140,7 +4139,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 267.97 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4152,7 +4150,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 179.07 215.9 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4164,7 +4161,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 266.7 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4176,7 +4172,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 186.69 215.9 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4188,7 +4183,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 284.48 124.46 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4200,7 +4194,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 288.29 212.09 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4212,7 +4205,6 @@
 	(hierarchical_label "Segment_I"
 		(shape input)
 		(at 173.99 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4224,7 +4216,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 266.7 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4236,7 +4227,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 266.7 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4248,7 +4238,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 185.42 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4260,7 +4249,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 361.95 185.42 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4272,7 +4260,6 @@
 	(hierarchical_label "Segment_C"
 		(shape input)
 		(at 288.29 158.75 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4284,7 +4271,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 182.88 215.9 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4296,7 +4282,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 292.1 212.09 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4308,7 +4293,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 182.88 127 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4320,7 +4304,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 266.7 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4332,7 +4315,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 266.7 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4344,7 +4326,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 356.87 185.42 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4356,7 +4337,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 292.1 124.46 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4368,7 +4348,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 186.69 127 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4380,7 +4359,6 @@
 	(hierarchical_label "GREEN"
 		(shape input)
 		(at 185.42 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4392,7 +4370,6 @@
 	(hierarchical_label "Segment_B"
 		(shape input)
 		(at 288.29 71.12 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4404,7 +4381,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 367.03 185.42 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4416,7 +4392,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 267.97 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4428,7 +4403,6 @@
 	(hierarchical_label "Segment_H"
 		(shape input)
 		(at 336.55 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4440,7 +4414,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 288.29 124.46 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4452,7 +4425,6 @@
 	(hierarchical_label "BLUE"
 		(shape input)
 		(at 266.7 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4464,7 +4436,6 @@
 	(hierarchical_label "RED"
 		(shape input)
 		(at 185.42 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4476,7 +4447,6 @@
 	(hierarchical_label "Segment_A"
 		(shape input)
 		(at 213.36 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4488,7 +4458,6 @@
 	(hierarchical_label "Segment_G"
 		(shape input)
 		(at 214.63 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4500,7 +4469,6 @@
 	(hierarchical_label "Segment_E"
 		(shape input)
 		(at 182.88 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4512,7 +4480,6 @@
 	(hierarchical_label "Segment_D"
 		(shape input)
 		(at 213.36 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
